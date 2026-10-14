@@ -7,4 +7,9 @@ Windows downloads for MeetSimpler.
 MeetSimpler homepage:
 [https://meetsimpler.github.io/meetsimpler-web/](https://meetsimpler.github.io/meetsimpler-web/)
 
+Downloads:
+[https://github.com/meetsimpler/meetsimpler-releases/releases](https://github.com/meetsimpler/meetsimpler-releases/releases)
+
+Topics: meeting-assistant, transcription, speech-to-text, ai-summarization
+
 Feel free to leave comments or report issues here.
